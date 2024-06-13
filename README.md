@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vraj Patel</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
-- 🔭 I’m currently working on [Mediapp](https://github.com/vrajpatel195/mediapp)
+- 🔭 I’m currently working on [PressData](https://github.com/vrajpatel195/mediapp)
 
 - 👨‍💻 All of my projects are available at [https://vrajpatel195.github.io/Portfolio/](https://vrajpatel195.github.io/Portfolio/)
 
